@@ -7,7 +7,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m">
-    <img alt=Support height="390" src="https://telegra.ph/file/7a6d5de6adcf7afd62620.jpg"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/datb6y.jpg"> 
     </p>
  
  
@@ -32,7 +32,7 @@
 [`PAIRING CODE`](https://andbad-qr-k71b.onrender.com)
  
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/datb6y.jpg src='https://files.catbox.moe/datb6y.jpg
 
 
 #### DEPLOY TO HEROKU 
